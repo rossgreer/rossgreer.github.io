@@ -20,14 +20,14 @@ title: About
   </div>
 </div>
 
-<div class="bio">
+<div class="bio" markdown="1">
 
-I lead the **Mi³ Lab** (Machine Intelligence, Interaction, and Imagination) at UC Merced. My research applies computer vision and AI to enable safe autonomous driving, with a focus on:
+I lead the Mi³ Lab (Machine Intelligence, Interaction, and Imagination) at UC Merced. My research applies computer vision and AI to enable safe autonomous driving, with a focus on:
 
-- **Uncertainty quantification** in learning systems
-- **Robustness** against rare events and open-world scenarios
-- **Safety** in human-interactive systems
-- **Data curation** and utility optimization
+- Uncertainty quantification in learning systems
+- Robustness against rare events and open-world scenarios
+- Safety in human-interactive systems
+- Data curation and utility optimization
 
 I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi](http://cvrr.ucsd.edu/Mohan/) at the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/). I also collaborated with [Shlomo Dubnov](http://music.ucsd.edu/~sdubnov/) through the Center for Research in Entertainment & Learning (CREL).
 
@@ -42,17 +42,10 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
   </div>
   <div class="news-item">
     <span class="news-date">2024</span>
-    <span>Received Henry Booker Award for Exemplary Ethical Engineering</span>
+    <span>Qualcomm Innovation Fellowship</span>
   </div>
   <div class="news-item">
     <span class="news-date">2024</span>
-    <span>Received Interdisciplinary Research Award from UC San Diego GPSA</span>
+    <span>DAAD Postdoctoral Networking Fellowship</span>
   </div>
 </div>
-
-## Awards & Funding
-
-- Qualcomm Innovation Fellowship
-- IRCAM Project REACH Support
-- Postdoctoral Networking Fellowship (DAAD)
-- Toyota CSRC, AWS, and UCOP ILTI Sponsorship
