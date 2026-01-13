@@ -22,7 +22,7 @@ title: About
 
 <div class="bio" markdown="1">
 
-I lead the Mi³ Lab (Machine Intelligence, Interaction, and Imagination) at UC Merced. My research applies computer vision and AI to enable safe autonomous driving. I focus on building systems that can handle the unpredictable nature of real-world driving: quantifying uncertainty, responding robustly to rare events, and ensuring safety when humans and machines must collaborate.
+I lead the Mi³ Lab (Machine Intelligence, Interaction, and Imagination) at UC Merced. My research applies computer vision and AI to enable **safe autonomous driving**. I focus on building systems that can handle the unpredictable nature of real-world driving: quantifying uncertainty, responding robustly to rare events, and ensuring safety when humans and machines must collaborate.
 
 Core research themes include:
 

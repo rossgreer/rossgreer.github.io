@@ -148,6 +148,15 @@ nav {
   margin-bottom: 2rem;
 }
 
+.bio ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.bio li {
+  margin-bottom: 0.5rem;
+}
+
 /* Research interests */
 .research-interests ul {
   list-style: disc;
