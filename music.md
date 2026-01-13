@@ -79,3 +79,30 @@ Previously taught at UC San Diego, covering machine learning techniques applied 
 ## Creative Practice
 
 Beyond research, I am an active musician, composer, and performer. Music serves as both a creative outlet and a testing ground for ideas about human-machine collaboration.
+
+<div class="video-grid">
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KIaTYrjy43w" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BP3JlLMf71c" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vTFCp0jjoTY" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/d2E7TsoiAWI" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0xCCUUzUvZ0" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L-2wmTSvs1s" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ckvGCkh9erw" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-embed">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fIn9U0aG5Jc" title="Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>

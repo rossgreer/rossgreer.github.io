@@ -244,12 +244,20 @@ nav {
 
 /* Video embeds */
 .video-embed {
-  margin: 1.5rem 0;
+  margin: 1rem 0;
 }
 
 .video-embed iframe {
   max-width: 100%;
   border-radius: 8px;
+}
+
+.video-grid {
+  margin-top: 1.5rem;
+}
+
+.video-grid .video-embed {
+  margin-bottom: 1.5rem;
 }
 
 /* Footer */
