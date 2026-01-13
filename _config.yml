@@ -1,0 +1,39 @@
+# Site settings
+title: Ross Greer
+description: Assistant Professor at UC Merced | AI, Computer Vision, Autonomous Driving
+url: "https://rossgreer.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: Ross Greer
+  email: rossgreer@ucmerced.edu
+  affiliation: University of California Merced
+  department: Computer Science & Engineering
+
+# Social
+scholar: ZAX3UCwAAAAJ
+github: rossgreer
+linkedin: rossgreer
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  publications:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
