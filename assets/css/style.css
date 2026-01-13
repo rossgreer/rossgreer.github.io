@@ -242,6 +242,16 @@ nav {
   font-size: 0.95rem;
 }
 
+/* Video embeds */
+.video-embed {
+  margin: 1.5rem 0;
+}
+
+.video-embed iframe {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
 /* Footer */
 footer {
   margin-top: 4rem;

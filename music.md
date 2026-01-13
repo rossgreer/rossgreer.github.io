@@ -28,7 +28,11 @@ Presented at the 10th Improtech Conference. This work explores how AI systems ca
 Research on using AI to recover the subtle nonverbal signals lost in video-mediated communication, featured in [NewScientist](https://www.newscientist.com/).
 
 **Interview with Tiffany Poon**
-A conversation exploring the intersection of AI and music with concert pianist Tiffany Poon.
+A conversation exploring the intersection of AI and music with concert pianist Tiffany Poon on her *Together With Classical* series.
+
+<div class="video-embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OW1xYcc-a9o" title="Together With Classical - AI & Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Teaching
 
@@ -37,8 +41,4 @@ Previously taught at UC San Diego, covering machine learning techniques applied 
 
 ## Creative Practice
 
-Beyond research, I am an active musician and performer. Music serves as both a creative outlet and a testing ground for ideas about human-machine collaboration.
-
-<div class="videos">
-  <!-- Add your performance videos here -->
-</div>
+Beyond research, I am an active musician, composer, and performer. Music serves as both a creative outlet and a testing ground for ideas about human-machine collaboration.
