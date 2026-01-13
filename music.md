@@ -71,10 +71,6 @@ My research extends into the intersection of artificial intelligence and music, 
 **Interview with Tiffany Poon**
 A conversation exploring the intersection of AI and music with concert pianist Tiffany Poon on her *Together With Classical* series.
 
-<div class="video-embed">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/OW1xYcc-a9o" title="Together With Classical - AI & Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Teaching
 
 **CSE 190: Machine Learning for Music and Audio**
