@@ -66,10 +66,11 @@ My research extends into the intersection of artificial intelligence and music, 
   <div class="publication-venue">International Conference on Computer Supported Education (CSME), 2021</div>
 </div>
 
-## Media
-
-**Interview with Tiffany Poon**
-A conversation exploring the intersection of AI and music with concert pianist Tiffany Poon on her *Together With Classical* series.
+<div class="publication">
+  <div class="publication-title">Together With Classical: The Intersection of AI & Music</div>
+  <div class="publication-authors">Interview with Tiffany Poon</div>
+  <div class="publication-venue">Together With Classical series</div>
+</div>
 
 ## Teaching
 
@@ -78,7 +79,7 @@ Previously taught at UC San Diego, covering machine learning techniques applied 
 
 ## Creative Practice
 
-Beyond research, I am an active musician, composer, and performer. Music serves as both a creative outlet and a testing ground for ideas about human-machine collaboration.
+In addition to my research, I am a practicing conductor and orchestrator and love making music with inclusive ensembles.
 
 <div class="video-grid">
   <div class="video-embed">
