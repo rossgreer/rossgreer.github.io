@@ -19,7 +19,7 @@ For a complete list, see my [Google Scholar profile](https://scholar.google.com/
 </div>
 
 <div class="publication">
-  <div class="publication-title">Towards Explainable, Safe Autonomous Driving with Language Embeddings</div>
+  <div class="publication-title">Towards Explainable, Safe Autonomous Driving with Language Embeddings for Novelty Identification and Active Learning: Framework and Experimental Analysis with Real-World Data Sets</div>
   <div class="publication-authors">R. Greer, M. Trivedi</div>
   <div class="publication-venue">arXiv, 2024</div>
 </div>
