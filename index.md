@@ -31,9 +31,7 @@ Core research themes include:
 - Safety in human-interactive systems
 - Data curation and utility optimization
 
-My work also spans the intersection of AI and music. I co-authored [*Deep and Shallow: Machine Learning in Music and Audio*](https://www.routledge.com/) with Shlomo Dubnov, and have presented research on AI-assisted musical improvisation and restoring nonverbal communication in virtual settings.
-
-I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi](http://cvrr.ucsd.edu/Mohan/) at the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/). I also collaborated with [Shlomo Dubnov](http://music.ucsd.edu/~sdubnov/) through the Center for Research in Entertainment & Learning (CREL).
+I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi](http://cvrr.ucsd.edu/Mohan/) at the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/). I also collaborated with [Shlomo Dubnov](http://music.ucsd.edu/~sdubnov/) through the Center for Research in Entertainment & Learning (CREL), exploring the intersection of AI and music. Together, we co-authored [*Deep and Shallow: Machine Learning in Music and Audio*](https://www.routledge.com/) and presented research on AI-assisted musical improvisation and restoring nonverbal communication in virtual settings.
 
 </div>
 
