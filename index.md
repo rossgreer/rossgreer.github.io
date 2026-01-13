@@ -33,7 +33,7 @@ Core research themes include:
 
 <br>
 
-I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi](http://cvrr.ucsd.edu/Mohan/) at the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/). I also collaborated with [Shlomo Dubnov](http://music.ucsd.edu/~sdubnov/) through the Center for Research in Entertainment & Learning (CREL), exploring the intersection of AI and music. Together, we co-authored [*Deep and Shallow: Machine Learning in Music and Audio*](https://www.routledge.com/) and presented research on AI-assisted musical improvisation and restoring nonverbal communication in virtual settings.
+I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi](http://cvrr.ucsd.edu/Mohan/) at the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/). I also collaborated with [Shlomo Dubnov](http://music.ucsd.edu/~sdubnov/) through the Center for Research in Entertainment & Learning (CREL), exploring the intersection of AI and music and co-authoring the textbook [*Deep and Shallow: Machine Learning in Music and Audio*](https://www.routledge.com/).
 
 </div>
 
