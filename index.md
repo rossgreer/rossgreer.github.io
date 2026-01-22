@@ -15,7 +15,7 @@ title: About
       <a href="mailto:rossgreer@ucmerced.edu">Email</a>
       <a href="https://scholar.google.com/citations?user=ZAX3UCwAAAAJ" target="_blank">Google Scholar</a>
       <a href="https://github.com/rossgreer" target="_blank">GitHub</a>
-      <a href="https://sites.ucmerced.edu/mi3" target="_blank">Mi³ Lab</a>
+      <a href="https://mi3-lab.github.io">Mi³ Lab</a>
     </div>
   </div>
 </div>
