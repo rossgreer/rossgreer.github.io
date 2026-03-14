@@ -41,6 +41,14 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
 
 <div class="news">
   <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>North American Finalist, NHTSA Enhanced Safety of Vehicles Safety Design Competition — <em>Vision-Language Work Zone Intelligence for Safety-Critical Speed Regulation of Mixed-Autonomy Vehicles in Dynamic Environments</em></span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2024</span>
     <span>Joined UC Merced as Assistant Professor</span>
   </div>
@@ -51,5 +59,18 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
   <div class="news-item">
     <span class="news-date">2022</span>
     <span>Qualcomm Innovation Fellowship</span>
+  </div>
+</div>
+
+## Service
+
+<div class="news">
+  <div class="news-item">
+    <span class="news-date">ICLR</span>
+    <span>Area Chair</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">ICML</span>
+    <span>Area Chair</span>
   </div>
 </div>
