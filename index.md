@@ -22,7 +22,7 @@ title: About
 
 <div class="bio" markdown="1">
 
-I lead the Mi³ Lab (Machine Intelligence, Interaction, and Imagination) at UC Merced. My research applies computer vision and AI to enable **safe autonomous driving**. I focus on building systems that can handle the unpredictable nature of real-world driving: quantifying uncertainty, responding robustly to rare events, and ensuring safety when humans and machines must collaborate.
+I lead the Mi³ Lab (Machine Intelligence, Interaction, and Imagination) at UC Merced. My research applies computer vision and AI to enable **safe autonomous driving**. I focus on building systems that can handle the unpredictable nature of real-world driving: quantifying uncertainty, responding robustly to rare events, and ensuring safety when humans and machines must collaborate. I serve as Area Chair for ICLR and ICML.
 
 Core research themes include:
 
@@ -62,15 +62,3 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
   </div>
 </div>
 
-## Service
-
-<div class="news">
-  <div class="news-item">
-    <span class="news-date">ICLR</span>
-    <span>Area Chair</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">ICML</span>
-    <span>Area Chair</span>
-  </div>
-</div>
