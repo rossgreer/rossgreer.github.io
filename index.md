@@ -29,6 +29,7 @@ Core research themes include:
 - Uncertainty quantification in learning systems
 - Robustness against rare events and open-world scenarios
 - Safety in human-interactive systems
+- Trust in AI and appropriate reliance under operational pressure
 - Data curation and utility optimization
 
 <br>
@@ -42,11 +43,19 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
 <div class="news">
   <div class="news-item">
     <span class="news-date">2026</span>
-    <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
+    <span>ASCENDR Seed Grant ($200K) — <em>Naturalistic Multimodal Human Instruction for Resilient Human–Machine Teaming in Autonomous Defense Systems</em></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026</span>
-    <span>North American Finalist, NHTSA Enhanced Safety of Vehicles Safety Design Competition — <em>Vision-Language Work Zone Intelligence for Safety-Critical Speed Regulation of Mixed-Autonomy Vehicles in Dynamic Environments</em></span>
+    <span>UC Merced Earth Institute Climate Fellowship — <em>Sim-to-Real Visual Perception for Monitoring and Evacuation in Wildfire Environments</em></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>First Place International, NHTSA Enhanced Safety of Vehicles Safety Design Competition — <em>Vision-Language Work Zone Intelligence for Safety-Critical Speed Regulation of Mixed-Autonomy Vehicles in Dynamic Environments</em></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
   </div>
   <div class="news-item">
     <span class="news-date">2024</span>
