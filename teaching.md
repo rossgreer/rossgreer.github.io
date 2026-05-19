@@ -14,7 +14,7 @@ permalink: /teaching/
 </div>
 
 <div class="course">
-  <div class="course-title">CSE 185: Computer Vision</div>
+  <div class="course-title"><a href="{{ '/teaching/cse185' | relative_url }}">CSE 185: Computer Vision</a></div>
   <div class="course-info">Fundamentals of image processing, feature detection, and visual recognition</div>
 </div>
 
