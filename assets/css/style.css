@@ -651,6 +651,11 @@ details.faq li {
   background: #fff8ee;
 }
 
+.sch-final td {
+  background: #fff3cd;
+  font-weight: 500;
+}
+
 .sch-first td {
   background: var(--color-bg-alt);
   font-style: italic;
