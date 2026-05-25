@@ -771,10 +771,13 @@ footer {
   margin-bottom: 0.15rem;
 }
 
-.paper-presenter {
+.paper-title {
+  font-size: 1.05rem;
   font-weight: 600;
+  margin-bottom: 0.15rem;
 }
 
-.paper-title {
-  font-size: 1rem;
+.paper-presenter {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
 }
