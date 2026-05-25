@@ -748,3 +748,33 @@ footer {
     justify-content: center;
   }
 }
+
+/* Seminar paper lists */
+.paper-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem;
+}
+
+.paper-item {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.paper-item:last-child {
+  border-bottom: none;
+}
+
+.paper-meta {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: 0.15rem;
+}
+
+.paper-presenter {
+  font-weight: 600;
+}
+
+.paper-title {
+  font-size: 1rem;
+}

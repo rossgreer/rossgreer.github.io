@@ -23,6 +23,20 @@ permalink: /teaching/
   <div class="course-info">Design and analysis of algorithms, data structures, and computational complexity</div>
 </div>
 
+<div class="course">
+  <div class="course-title"><a href="{{ '/teaching/cse195' | relative_url }}">CSE 195 / EECS 295: EECS Research</a></div>
+  <div class="course-info">Mentored research in electrical engineering and computer science</div>
+</div>
+
+<div class="course">
+  <div class="course-title">EECS 290: EECS Seminar</div>
+  <div class="course-info">Graduate seminar in electrical engineering and computer science</div>
+</div>
+
+## Textbook
+
+I co-authored **Deep and Shallow: Machine Learning in Music and Audio** with Shlomo Dubnov. The book introduces techniques in signal processing, machine learning fundamentals, and representation learning, shown with applications to music and audio.
+
 ## UC San Diego
 
 <div class="course">
@@ -35,6 +49,12 @@ permalink: /teaching/
   <div class="course-info">Fundamentals of digital image processing, filtering, and analysis</div>
 </div>
 
-## Textbook
+<div class="course">
+  <div class="course-title">ECE 172: Intelligent Systems</div>
+  <div class="course-info">Foundations of intelligent systems, perception, and decision-making</div>
+</div>
 
-I co-authored **Deep and Shallow: Machine Learning in Music and Audio** with Shlomo Dubnov, covering machine learning techniques applied to music and audio signal processing.
+<div class="course">
+  <div class="course-title">ECE 285: Autonomous Driving</div>
+  <div class="course-info">Perception, planning, and control for autonomous vehicles</div>
+</div>
