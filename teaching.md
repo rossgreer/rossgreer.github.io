@@ -40,7 +40,7 @@ I co-authored **Deep and Shallow: Machine Learning in Music and Audio** with Shl
 ## UC San Diego
 
 <div class="course">
-  <div class="course-title">CSE 190: Machine Learning for Music and Audio</div>
+  <div class="course-title"><a href="https://sites.google.com/eng.ucsd.edu/ucsd-cse-190/home">CSE 190: Machine Learning for Music and Audio</a></div>
   <div class="course-info">Machine learning techniques applied to music information retrieval, audio signal processing, and generative models</div>
 </div>
 
@@ -55,6 +55,6 @@ I co-authored **Deep and Shallow: Machine Learning in Music and Audio** with Shl
 </div>
 
 <div class="course">
-  <div class="course-title">ECE 285: Autonomous Driving</div>
+  <div class="course-title"><a href="https://cvrr.ucsd.edu/courses/ece-285">ECE 285: Autonomous Driving</a></div>
   <div class="course-info">Perception, planning, and control for autonomous vehicles</div>
 </div>
