@@ -58,6 +58,14 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
     <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
   </div>
   <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>California DMV Sponsored Research — <em>Autonomous Vehicles Safety Research</em></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>SAE / GM Civic Progress Challenge Grant for Accessible Mobility</span>
+  </div>
+  <div class="news-item">
     <span class="news-date">2024</span>
     <span>Joined UC Merced as Assistant Professor</span>
   </div>
