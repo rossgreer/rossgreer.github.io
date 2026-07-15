@@ -43,7 +43,7 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
 <div class="news">
   <div class="news-item">
     <span class="news-date">2026</span>
-    <span>ASCENDR Seed Grant ($200K) — <em>Naturalistic Multimodal Human Instruction for Resilient Human–Machine Teaming in Autonomous Defense Systems</em></span>
+    <span><a href="https://www.hsru.org/in-the-news/inaugural-ascendr-research-program" target="_blank">ASCENDR Seed Grant</a> ($200K) — <em>Naturalistic Multimodal Human Instruction for Resilient Human–Machine Teaming in Autonomous Defense Systems</em></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026</span>
