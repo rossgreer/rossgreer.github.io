@@ -43,11 +43,15 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
 <div class="news">
   <div class="news-item">
     <span class="news-date">2026</span>
+    <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
     <span><a href="https://www.hsru.org/in-the-news/inaugural-ascendr-research-program" target="_blank">ASCENDR Seed Grant</a> ($200K) — <em>Naturalistic Multimodal Human Instruction for Resilient Human–Machine Teaming in Autonomous Defense Systems</em></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026</span>
-    <span>UC Merced Earth Institute Climate Fellowship — <em>Sim-to-Real Visual Perception for Monitoring and Evacuation in Wildfire Environments</em></span>
+    <span>California DMV Sponsored Research — <em>Autonomous Vehicles Safety Research</em></span>
   </div>
   <div class="news-item">
     <span class="news-date">2026</span>
@@ -55,7 +59,11 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
   </div>
   <div class="news-item">
     <span class="news-date">2026</span>
-    <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
+    <span>SAE / GM Civic Progress Challenge Grant for Accessible Mobility</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
+    <span>UC Merced Earth Institute Climate Fellowship — <em>Sim-to-Real Visual Perception for Monitoring and Evacuation in Wildfire Environments</em></span>
   </div>
   <div class="news-item">
     <span class="news-date">2024</span>
