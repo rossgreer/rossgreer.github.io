@@ -44,6 +44,12 @@ permalink: /publications/
   <div class="publication-venue">Pattern Recognition Letters, 2024</div>
 </div>
 
+<div class="publication">
+  <div class="publication-title">Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection</div>
+  <div class="publication-authors">S. Mohamed, W. Zimmer, R. Greer, A. Ghita, M. Castillán-Santana, et al.</div>
+  <div class="publication-venue">European Conference on Computer Vision (ECCV), 2024</div>
+</div>
+
 ### Human-Vehicle Interaction & Safety
 
 <div class="publication">
@@ -56,6 +62,18 @@ permalink: /publications/
   <div class="publication-title">Pedestrian Behavior Maps for Safety Advisories: CHAMP Framework</div>
   <div class="publication-authors">R. Greer, S. Desai, L. Rakla, A. Gopalkrishnan, A. Alofi, M. Trivedi</div>
   <div class="publication-venue">IEEE Intelligent Vehicles Symposium (IV), 2023</div>
+</div>
+
+<div class="publication">
+  <div class="publication-title">Pedestrian Safety by Intent Prediction: A Lightweight LSTM-Attention Architecture and Experimental Evaluations with Real-World Datasets</div>
+  <div class="publication-authors">A. Alofi, R. Greer, A. Gopalkrishnan, M. Trivedi</div>
+  <div class="publication-venue">IEEE Intelligent Vehicles Symposium (IV), 2024</div>
+</div>
+
+<div class="publication">
+  <div class="publication-title">Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Driving</div>
+  <div class="publication-authors">T. E. W. Bossen, A. Mögelmose, R. Greer</div>
+  <div class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</div>
 </div>
 
 ### Active Learning & Data Curation
@@ -76,4 +94,12 @@ permalink: /publications/
   <div class="publication-title">Language-Driven Active Learning for Diverse Open-Set 3D Object Detection</div>
   <div class="publication-authors">R. Greer, B. Antoniussen, A. Mögelmose, M. Trivedi</div>
   <div class="publication-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025</div>
+</div>
+
+### Surveys
+
+<div class="publication">
+  <div class="publication-title">Generative AI for Autonomous Driving: Frontiers and Opportunities</div>
+  <div class="publication-authors">Y. Wang, S. Xing, C. Cui, R. Li, H. Hua, K. Tian, Z. Mo, X. Gao, M. Pavone, ..., R. Greer, et al.</div>
+  <div class="publication-venue">ACM Computing Surveys, 2025</div>
 </div>
