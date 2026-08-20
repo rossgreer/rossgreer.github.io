@@ -26,7 +26,7 @@ I lead the Mi³ Lab (Machine Intelligence, Interaction, and Imagination) at UC M
 
 Core research themes include:
 
-- Uncertainty quantification in learning systems
+- Representation learning, information, and uncertainty quantification in learning systems
 - Robustness against rare events and open-world scenarios
 - Safety in human-interactive systems
 - Trust in AI and appropriate reliance under operational pressure
