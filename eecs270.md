@@ -7,7 +7,7 @@ permalink: /teaching/eecs270/
 <div class="course-hero">
   <div class="course-hero-eyebrow"><a href="{{ '/teaching' | relative_url }}">&larr; Teaching</a></div>
   <h1>EECS 270: Robot Algorithms</h1>
-  <p class="course-hero-sub">UC Merced &middot; Most recent offering: Fall 2025 &middot; Prof. Ross Greer</p>
+  <p class="course-hero-sub">UC Merced &middot; Most recent offering: Spring 2026 &middot; Prof. Ross Greer</p>
   <p class="course-hero-tag">A hands-on tour of the algorithms that let robots perceive, plan, and act &mdash; from rigid-body transforms to SLAM, LQR, and MPC.</p>
 </div>
 
