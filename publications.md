@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Publications
 
-For a complete list, see my [Google Scholar profile](https://scholar.google.com/citations?user=ZAX3UCwAAAAJ&hl=en).
+> **This page shows only a small selection of my work.** For the complete and up-to-date list, please see my **[Google Scholar profile](https://scholar.google.com/citations?user=ZAX3UCwAAAAJ&hl=en)**.
 
 ## Selected Publications
 
@@ -29,7 +29,7 @@ For a complete list, see my [Google Scholar profile](https://scholar.google.com/
 <div class="publication">
   <div class="publication-title">Multi-frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving</div>
   <div class="publication-authors">A. Gopalkrishnan, R. Greer, M. Trivedi</div>
-  <div class="publication-venue">arXiv, 2024</div>
+  <div class="publication-venue">CVPR Workshop on Vision and Language for Autonomous Driving and Robotics (VLADR), 2024</div>
 </div>
 
 <div class="publication">
