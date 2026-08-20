@@ -9,7 +9,7 @@ permalink: /teaching/
 ## UC Merced
 
 <div class="course">
-  <div class="course-title">EECS 270: Robot Algorithms</div>
+  <div class="course-title"><a href="{{ '/teaching/eecs270' | relative_url }}">EECS 270: Robot Algorithms</a></div>
 </div>
 
 <div class="course">
