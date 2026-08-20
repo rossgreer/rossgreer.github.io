@@ -21,6 +21,10 @@ permalink: /teaching/
 </div>
 
 <div class="course">
+  <div class="course-title"><a href="{{ '/teaching/cse164' | relative_url }}">CSE 164 / EECS 264: Introduction to Intelligent Vehicles and Autonomous Driving</a></div>
+</div>
+
+<div class="course">
   <div class="course-title"><a href="{{ '/teaching/cse195' | relative_url }}">CSE 195 / EECS 295: EECS Research</a></div>
 </div>
 
