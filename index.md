@@ -43,6 +43,10 @@ I received my Ph.D. from UC San Diego, where I was supervised by [Mohan Trivedi]
 <div class="news">
   <div class="news-item">
     <span class="news-date">2026</span>
+    <span>UC Merced CITRIS & OTIIR Innovation for Impact (I2) Award ($30K) — <em>Agentic AI and Adaptive Vision-Language Hazard Perception for Open-World Safety in Mixed-Autonomy Transportation</em></span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2026</span>
     <span>NVIDIA Academic Research Grant — <em>Edge-Deployed Multimodal Safety Reasoning for Autonomous Vehicles</em></span>
   </div>
   <div class="news-item">
