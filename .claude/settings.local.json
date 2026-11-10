@@ -7,7 +7,8 @@
       "Bash(git pull:*)",
       "WebFetch(domain:sites.google.com)",
       "Bash(git rm *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(sed -i '198s| &mdash; HW 3 due||; 200s|<td><strong>Midterm 4</strong></td>|<td><strong>Midterm 4</strong> \\\\&mdash; HW 3 due</td>|' cse185.md && sed -n 196,201p cse185.md && git commit -qam \"CSE 185: move HW 3 due date to Nov 18 *)"
     ]
   }
 }
